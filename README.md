@@ -6,7 +6,7 @@ Within this application users are able to create an account, login, leave messag
 
 Installation:
 Clone my repo
-<space><space>
+<Enter>
 Open your terminal and run npm install to download the necessary node modules.
 <space>
 Usage:
